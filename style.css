@@ -1,10 +1,10 @@
 :root{
 
-    --cor--fundo1:#383D58;
+    --cor-fundo1:#383D58;
     --cor--fundo2:#AA29E8;
     --cor--fundo3:#D9D9D9;
     --cor--fundo4:#000000
 }
-.cabecalh{
-    background-color: var(--cor--fundo1)
+.cabecalho{
+    background-color: var(--cor-fundo1)
 }
