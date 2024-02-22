@@ -6,5 +6,6 @@
     --cor--fundo4:#000000
 }
 .cabecalho{
-    background-color: var(--cor-fundo1)
+    background-color: var(--cor-fundo1);
+    color: var(--cor--fundo3);
 }
