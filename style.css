@@ -8,6 +8,7 @@
 .cabecalho{
     background-color: var(--cor-fundo1);
     color: var(--cor--fundo3);
+display: flex;
 }
 .iamgem-cabecalho{
     width: 50%;
