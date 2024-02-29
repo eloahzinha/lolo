@@ -17,3 +17,7 @@
 .iamgem-cabecalho{
     width: 100%;
 }
+.item-lita-cabecalho{
+    display: inline-block;
+    margin: 0 16px;
+}
