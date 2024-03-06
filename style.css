@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    pading:0;
+}
 :root{
 
     --cor-fundo1:#383D58;
