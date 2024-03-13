@@ -33,4 +33,6 @@
     background-image: linear-gradient(#00D0FE, #3338A3);
     color: aliceblue;
     display: flex;
+    align-items: center;
+    padding: 24px 0;
     }
