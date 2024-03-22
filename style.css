@@ -54,5 +54,7 @@
     text-align: left;
     padding: 16px 0px;
 }
-
+.estudante-todos{
+    display: grid;
+}
   
