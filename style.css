@@ -48,9 +48,11 @@
 }
 .estudantes-icone{
     width: 80px;
+    padding: 4px 8px;
 }
 .estudante-div{
     text-align: left;
+    padding: 16px 0px;
 }
 
   
